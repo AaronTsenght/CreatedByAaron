@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">CreateByAaron</string>
+    <string name="app_name">CreatedByAaron</string>
+    <string name="bt_1">popular movies</string>
+    <string name="bt_6">capstone</string>
+    <string name="bt_5">go ubiquitous</string>
+    <string name="bt_4">make your app material</string>
+    <string name="bt_3">build it bigger</string>
+    <string name="bt_2">stock hawk</string>
 </resources>
